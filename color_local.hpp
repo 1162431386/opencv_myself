@@ -1,0 +1,1 @@
+int color_local(void);
